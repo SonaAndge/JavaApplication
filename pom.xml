@@ -16,6 +16,10 @@
    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+<build>
+<finalName>java-jenkins-docker</finalName>
+</build>
+
   <dependencies>
    <dependency>
     <groupId>org.testng</groupId>
